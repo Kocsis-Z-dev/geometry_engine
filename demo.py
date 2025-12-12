@@ -1,0 +1,5 @@
+from collision import (utkozik_gomb_gomb, utkozik_box_box, utkozik_gomb_kocka)
+print("=== DEMO ===")
+print("Gömb-Gömb:", utkozik_gomb_gomb((0,0,0), 5, (6,0,0), 3))
+print("Kocka-Kocka:", utkozik_box_box((0,5,0,5,0,5), (4,8,4,8,4,8)))
+print("Gömb-kocka:", utkozik_gomb_kocka((3,3,3), 2, (0,5,0,5,0,5)))
