@@ -1,2 +1,5 @@
-_pycache_/
+# CSV runtime / demo file
+*.csv
+# Python cache
+__pycache__/
 *.pyc
