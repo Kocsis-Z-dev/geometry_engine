@@ -1,3 +1,12 @@
+## What this is
+A small geometry engine / utilities library for precise 2D/3D calculations (WIP).
+---
+## Who it's for
+Developers who need reliable geometric primitives (intersection, distance, transforms) for automation, CAD-like tooling, or data pipelines.
+---
+## Current status
+Active but lightweight maintenance. If you tell me your use-case, I can point you to the right parts or add a minimal example.
+---
 # Geometry Engine – Python 3D Data Processing & Filtering
 This project is a lightweight Python geometry engine focused on
 **processing, filtering, and validating 3D (XYZ) point data**
@@ -58,3 +67,7 @@ This tool provides simple building blocks to:
 2) Run:
 ```bash
 python point_filter_service.py
+---
+## Business use
+If you have a real-world data or geometry problem (CSV, point clouds, validation, filtering),
+you can contact me for a quick review or to adapt this code to your use-case.
